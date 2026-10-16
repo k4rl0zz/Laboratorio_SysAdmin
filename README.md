@@ -6,7 +6,7 @@ Este documento se actualizará progresivamente conforme surjan nuevas observacio
 
 
 
-***1. Uso de la documentación y validación de comandos***
+    ***1. Uso de la documentación y validación de comandos***
 
 Parte de la documentación de los módulos ha sido generada con herramientas de inteligencia artificial. Debido a esto, es posible que algunos bloques de texto contengan errores o inconsistencias menores.
 
@@ -14,7 +14,7 @@ En caso de encontrar diferencias entre los comandos mostrados en las capturas de
 
 
 
-***2. Áreas y módulos trabajados en el laboratorio***
+    ***2. Áreas y módulos trabajados en el laboratorio***
 
 Dentro de este entorno de laboratorio se desarrollarán prácticas correspondientes a las siguientes asignaturas y módulos:
 
