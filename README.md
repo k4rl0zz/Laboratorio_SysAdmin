@@ -6,7 +6,7 @@ Este documento se actualizará progresivamente conforme surjan nuevas observacio
 
 
 
-**1. Uso de la documentación y validación de comandos**
+***1. Uso de la documentación y validación de comandos***
 
 
 
@@ -18,7 +18,7 @@ En caso de encontrar diferencias entre los comandos mostrados en las capturas de
 
 
 
-**2. Áreas y módulos trabajados en el laboratorio**
+***2. Áreas y módulos trabajados en el laboratorio***
 
 
 
@@ -28,19 +28,12 @@ Dentro de este entorno de laboratorio se desarrollarán prácticas correspondien
 
 Adrián -- Sistemas Operativos III (SO3)
 
-
-
 Adrián -- Fundamentos de Seguridad
-
-
 
 Juan Alexander -- Seguridad de Sistemas Operativos (SSO)
 
 
-
-
-
-**3. Consideraciones sobre el firewall**
+***3. Consideraciones sobre el firewall***
 
 
 
