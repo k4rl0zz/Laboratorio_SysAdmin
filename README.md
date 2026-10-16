@@ -2,6 +2,32 @@ README
 
 **<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_001.1.html" target="_blank">Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora</a>**
 
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_001.2.html" target="_blank">Capítulo 1.2: Configuración de Clientes Ubuntu y Windows</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_002.html" target="_blank">Capítulo 2: Gestión de Almacenamiento y Servicios de Red</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_003.html" target="_blank">Capítulo 3: Tareas Avanzadas y Hardening de SSH</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_004.html" target="_blank">Capítulo 4: Servidores Web Apache, Postfix y CUPS</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_005.html" target="_blank">Capítulo 5: Alta Disponibilidad con Pacemaker y Keepalived</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_006.html" target="_blank">Capítulo 6: Seguridad Avanzada, IDS Snort 3 y MFA/2FA</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_007.html" target="_blank">Capítulo 7: Almacenamiento Compartido y Dominio Samba4</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_008.html" target="_blank">Capítulo 8: Contenedores Docker, Portainer y WordPress Stack</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_009.html" target="_blank">Capítulo 9: Automatización e Infraestructura como Código con Ansible</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_010_wazuh.html" target="_blank">Capítulo Wazuh: Despliegue de SIEM/XDR Wazuh en RHEL/Fedora</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_011_radius.html" target="_blank">Capítulo Radius: Servidor de Autenticación FreeRADIUS</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_012.html" target="_blank">Capítulo 12</a>**
+
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_013.html" target="_blank">Capítulo 13</a>**
+
 Este documento se actualizará progresivamente conforme surjan nuevas observaciones, recomendaciones o aclaraciones relacionadas con el HomeLab y las prácticas desarrolladas.
 
 
