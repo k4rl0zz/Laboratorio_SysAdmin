@@ -24,9 +24,9 @@ README
 
 **<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_011_radius.html" target="_blank">Capítulo Radius: Servidor de Autenticación FreeRADIUS</a>**
 
-**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_012.html" target="_blank">Capítulo 12</a>**
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_012.html" target="_blank">Capítulo 12: Gestión de Usuarios en Linix</a>**
 
-**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_013.html" target="_blank">Capítulo 13</a>**
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_013.html" target="_blank">Capítulo 13: Linux Hardening</a>**
 
 Este documento se actualizará progresivamente conforme surjan nuevas observaciones, recomendaciones o aclaraciones relacionadas con el HomeLab y las prácticas desarrolladas.
 
