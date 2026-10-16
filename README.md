@@ -1,6 +1,6 @@
 README
 
-
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_001.1.html" target="_blank">Capítulo 1.1: Instalación de Sistemas Operativos RHEL y Fedora</a>**
 
 Este documento se actualizará progresivamente conforme surjan nuevas observaciones, recomendaciones o aclaraciones relacionadas con el HomeLab y las prácticas desarrolladas.
 
