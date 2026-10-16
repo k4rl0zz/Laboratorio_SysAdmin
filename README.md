@@ -27,7 +27,7 @@ Juan Alexander -- Seguridad de Sistemas Operativos (SSO)
 
 
 
-***3. Consideraciones sobre el firewall***
+      ***3. Consideraciones sobre el firewall***
 
 En la mayoría de las prácticas, no será necesario habilitar reglas de firewall específicas, debido a que gran parte de los ejercicios se ejecutan dentro de una misma máquina o entorno aislado.
 
@@ -47,7 +47,7 @@ Como se trata de un entorno de laboratorio, se recomienda aplicar las reglas de 
 
 
 
-***4. Uso de snapshots y reutilización de máquinas virtuales***
+      ***4. Uso de snapshots y reutilización de máquinas virtuales***
 
 En prácticas como:
 
@@ -83,7 +83,7 @@ De igual forma, es recomendable siempre que después de cada práctica, guardes 
 
 
 
-***5. Compatibilidad entre Fedora y RHEL***
+      ***5. Compatibilidad entre Fedora y RHEL***
 
 En muchas prácticas, los comandos ejecutados en RHEL también serán funcionales en Fedora, debido a la similitud entre ambas distribuciones.
 
@@ -98,6 +98,6 @@ Si no existe ninguna aclaración diferenciando Fedora de RHEL, se debe asumir qu
 
 
 
-***6. Compatibilidad entre dispositivos***
+      ***6. Compatibilidad entre dispositivos***
 
 Todas las practicas desarrolladas funciona de manera tal que los archivos HTML se pueden ver tanto en la computadora como en el celular.
