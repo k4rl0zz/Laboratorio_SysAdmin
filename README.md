@@ -20,9 +20,9 @@ README
 
 **<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_009.html" target="_blank">Capítulo 9: Automatización e Infraestructura como Código con Ansible</a>**
 
-**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_010_wazuh.html" target="_blank">Capítulo Wazuh: Despliegue de SIEM/XDR Wazuh en RHEL/Fedora</a>**
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_010_wazuh.html" target="_blank">Capítulo 10 Wazuh: Despliegue de SIEM/XDR Wazuh en RHEL/Fedora</a>**
 
-**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_011_radius.html" target="_blank">Capítulo Radius: Servidor de Autenticación FreeRADIUS</a>**
+**<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_011_radius.html" target="_blank">Capítulo 11 Radius: Servidor de Autenticación FreeRADIUS</a>**
 
 **<a href="https://htmlpreview.github.io/?https://github.com/k4rl0zz/Laboratorio_SysAdmin/blob/main/Parte_012.html" target="_blank">Capítulo 12: Gestión de Usuarios en Linix</a>**
 
